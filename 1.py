@@ -10,7 +10,7 @@ import json,sys,time
 #把下方单引号内的内容改为你的应用id                                         #
 id=r'7950121f-a7e1-4a08-94d3-5544173373ac'                         
 #把下方单引号内的内容改为你的应用机密                                       #
-secret=r'diCT072c]8k?brWaGdM=/q=CsaMqz0b]'                                           
+secret=r'Q@.utvO[@m3cIAbqiXb6lw6LfZkcNA30'                                           
 ###################################################################
 
 
